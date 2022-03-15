@@ -1,11 +1,11 @@
 variable "accesskey" {
    type = string
-   default = "AKIA3GNUMNYZMGHBQIJD"
+   default = ""
 }
 
 variable "secretkey" {
    type = string
-   default = "zzxavDIZvJIqbt+9a7p0AfyxB8LtaZDfT6FtDsdM"
+   default = ""
 }
 
 variable "awsprops" {
